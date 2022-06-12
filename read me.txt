@@ -1,0 +1,6 @@
+admin:
+	login: younoussbore
+	pass: 123456
+client:
+	login: Mrkassongue
+	pass: 123456
